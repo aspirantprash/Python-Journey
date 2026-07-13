@@ -20,3 +20,6 @@
 
 ## Status
 ✅ Completed 10/10 Practice Questions
+
+## Updated Notes
+Completed 10 for loop practice questions.
