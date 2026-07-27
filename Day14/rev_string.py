@@ -4,5 +4,5 @@ def reverse(text):
         rev=ch+rev
     return rev
 print(reverse("prashant"))
+print("Solved Reverse")
         
-    
